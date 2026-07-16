@@ -383,7 +383,7 @@ if(restartButton){
         setTimeout(()=>{
 
 
-            window.location.href="01-index.html";
+            window.location.href="index.html";
 
 
         },800);
