@@ -50,7 +50,7 @@ if(yesButton){
         setTimeout(()=>{
 
 
-            window.location.href="02-carta.html";
+            window.location.href="01-html/02-carta.html";
 
 
         },800);
@@ -383,7 +383,7 @@ if(restartButton){
         setTimeout(()=>{
 
 
-            window.location.href="index.html";
+            window.location.href="../index.html";
 
 
         },800);
